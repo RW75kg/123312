@@ -19,3 +19,5 @@ ylabel('Amplitude');
 title('Damped Sine Wave');
 
 set(gca, 'FontName', 'Times New Roman', 'FontSize', 12);
+
+ 
